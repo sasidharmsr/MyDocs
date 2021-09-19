@@ -2,9 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Server side installintions
+
+`npm i socket.io`
+
+`npm i mongoose`
+
+## User side installations
+
+`npm i react-router-dom`
+`npm i socket.io-client`
+`npm i styled-components`
+`npm i uuid`
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can First go to server folder and run
+
+### `npm run devStart`
 
 ### `npm start`
 
