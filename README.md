@@ -21,7 +21,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can First go to server folder and run
 
 ### `npm run devStart`
-
+ 
+ After that open another powershell and run below command in present directory
+ 
 ### `npm start`
 
 Runs the app in the development mode.\
