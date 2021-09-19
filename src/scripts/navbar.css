@@ -1,0 +1,46 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.main{
+    padding: 10px 20px;
+    height: 60px;
+}
+
+.span{
+    font-size: 19px;
+}
+.left{
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+.center{ 
+    font-weight: bold;
+    font-size: 32px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.right{
+    flex: 1;
+}
+
+.searchdiv{
+    border:1px solid lightgray;
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+input:focus {
+    outline:none;
+}
+.j{
+
+}
